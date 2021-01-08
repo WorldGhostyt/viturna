@@ -19,7 +19,7 @@ const client = new Discord.Client({partials: ['MESSAGE', 'REACTION']});
 const { YTSearcher } = require('ytsearcher');
 
 const searcher = new YTSearcher({
-    key: "APIKEY",
+    key: "AIzaSyDZEICu8JBdPFobr1g70hk1wWPd57Egsvs",
     revealed: true
 });
 
